@@ -16,7 +16,7 @@ struct ContentView: View {
                 .foregroundColor(.red)
                 .multilineTextAlignment(.leading)
             Spacer()
-            Image(systemName: "globe")
+            Image(systemName: "person.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
         }
